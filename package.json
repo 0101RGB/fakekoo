@@ -1,0 +1,23 @@
+{
+  "name": "fakekoo",
+  "version": "1.0.0",
+  "description": "theworkers-slackbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0101RGB/fakekoo.git"
+  },
+  "keywords": [
+    "fakekoo",
+    "slackbot"
+  ],
+  "author": "gotjakoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0101RGB/fakekoo/issues"
+  },
+  "homepage": "https://github.com/0101RGB/fakekoo#readme"
+}
